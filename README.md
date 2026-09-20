@@ -40,6 +40,7 @@ TypeScript durch <script setup lang="ts">
 Installation und Start:
 
 Abhängigkeiten installieren: npm install
+
 Entwicklungsserver starten: npm run dev
 
 Danach kann die Anwendung über die angezeigte lokale URL im Browser geöffnet werden.
