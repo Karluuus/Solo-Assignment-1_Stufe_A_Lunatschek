@@ -1,5 +1,6 @@
 Projektstruktur
 
+```text
 src/
 ├── assets/
 │   └── counter.css
@@ -10,6 +11,7 @@ src/
 ├── App.vue
 ├── main.ts
 └── style.css
+```
 
 Umsetzung
 
