@@ -25,8 +25,8 @@ Im Template werden die Werte und Funktionen über das Objekt verwendet:
 <p>Zählerstand: {{ counter.count }}</p>
 <p>Doppelt: {{ counter.doubled }}</p>
 
-<button @click="counter.increment">+1</button>
-<button @click="counter.decrement">-1</button>
+<button @click="counter.increase">+1</button>
+<button @click="counter.decrease">-1</button>
 
 Verwendete Vue-Konzepte:
 
